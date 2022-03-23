@@ -57,7 +57,7 @@
   - (https://github.com/CJQ2805/ChargeSwitch) ： 个人项目ChargeSwitch,顾名思义可以充电的游戏机，移动电源部分:IP5358,游戏机部分：STM32F429
   - (https://github.com/CJQ2805/BMS-4S1P) : 个人项目，BMS 4S1P的方案分享
   - (https://github.com/CJQ2805/STM32F4_SD_CARD) ： 基于STM32F4的基本框架，各类驱动，集合FreeRTOS的系统管理、SDIO驱动、FATFS、LCD\FSMC等等。 
-  - (https://github.com/CJQ2805/Boot_Update_Upper) ： 升级的C# windowsform 上位机程序.
+  - (https://github.com/CJQ2805/Boot_Update_Upper) ： 对应下位机 实现升级的串口 C# windowsform 上位机程序.
       
 ---      
 # 致谢
