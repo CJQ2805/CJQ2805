@@ -1,7 +1,7 @@
 
 # 联系方式
 - Email：chen.cjq@foxmail.com
-- 微信: CJQ260575749
+- WeChat: CJQ260575749
 
 # 个人信息
  - CJQ2805/男
