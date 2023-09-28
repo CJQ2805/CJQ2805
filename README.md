@@ -24,6 +24,10 @@
 
 ...
 
+# 在校经历
+⭐全国电子设计大赛省级二等奖 ⭐福建省单片机应用设计大赛一等奖 ⭐福建省软件设计大赛一等奖  
+
+
 ## 个人开源项目介绍
   - (https://github.com/CJQ2805/OTA_and_bootloader) ： 基于STM32F1的 bin.文件升级流程，APP1和APP2多分区处理。
   - (https://github.com/CJQ2805/ChargeSwitch) ： 个人项目ChargeSwitch,顾名思义可以充电的游戏机，移动电源部分:IP5358,游戏机部分：STM32F429
